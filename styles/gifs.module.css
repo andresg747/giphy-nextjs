@@ -1,0 +1,23 @@
+.container {
+  margin: 10em auto 0;
+  max-width: 80%;
+  min-height: 600px;
+  border: 1px solid rgb(161, 161, 161);
+}
+
+.title {
+  text-align: center;
+  border-bottom: 1px solid rgb(161, 161, 161);
+  padding: 1em 0;
+  margin: 0;
+}
+
+.list {
+  display: flex;
+}
+
+.listItem {
+  width: 300px;
+  padding: 1em;
+  background-color: rgb(239, 239, 239);
+}
